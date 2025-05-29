@@ -1,3 +1,4 @@
+Note: latest version is available here: https://github.com/anthoniat/tfortscan.git 
 # Tonia-vuln-scanner
 
 A web vulnerability scanner with a React frontend and Python Flask backend. This application allows users to scan websites for common security vulnerabilities including XSS, SQL Injection, security header configurations, and open ports.
